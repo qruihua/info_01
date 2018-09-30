@@ -2,4 +2,9 @@ num = 10
 
 zhangsan = 10
 
+<<<<<<< HEAD  managerµÄ
 girl = 'rose'
+
+#=======		zhangsan	µÄ
+#boy = 'tom'
+#>>>>>>> 2988ec5299cf99d81ad3c833219b06b8dcbba664
